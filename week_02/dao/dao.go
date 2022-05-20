@@ -13,7 +13,7 @@ var Db *sql.DB
 type Student struct {
 	id   uint16
 	name string
-	age  int8
+	age  uint8
 }
 
 // init 初始化数据库链接
