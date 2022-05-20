@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Go_training_camp/week_02/dao"
 	"database/sql"
 	"fmt"
+	"week_02/dao"
 )
 
 // 错误堆栈打印在main方法中

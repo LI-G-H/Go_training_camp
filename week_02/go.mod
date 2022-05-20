@@ -1,4 +1,4 @@
-module Go_training_camp
+module week_02
 
 go 1.18
 
